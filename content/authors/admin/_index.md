@@ -67,4 +67,4 @@ user_groups:
 - Visitors
 ---
 
-I am a postgraduate student in Advanced Electrical Power Systems Engineering from the University of Manchester. Now I focus on the dynamic performance difference of large interconnected transmission network caused by the hybrid renewable energy system consisting of different generation technologies. Probabilistic method are implemented to analyze the system behaviors. Concurrently, I am fascinated with Machine Learning and Artificial Intelligence, I expore it and combine it into the dynamic studies.  
+I am a postgraduate student in Advanced Electrical Power Systems Engineering from the University of Manchester. Now I focus on the dynamic performance difference of large interconnected transmission network caused by the hybrid renewable energy system consisting of different generation technologies. Probabilistic method are implemented to analyze the system behaviors. Concurrently, I am fascinated with Machine Learning and Artificial Intelligence, I expore it and combine it into the power system studies.  
